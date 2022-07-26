@@ -1,0 +1,8 @@
+C:\Users\esto0\source\repos\TreesHW\TreesHW\bin\Debug\TreesHW.exe.config
+C:\Users\esto0\source\repos\TreesHW\TreesHW\bin\Debug\TreesHW.exe
+C:\Users\esto0\source\repos\TreesHW\TreesHW\bin\Debug\TreesHW.pdb
+C:\Users\esto0\source\repos\TreesHW\TreesHW\obj\Debug\TreesHW.csproj.AssemblyReference.cache
+C:\Users\esto0\source\repos\TreesHW\TreesHW\obj\Debug\TreesHW.csproj.SuggestedBindingRedirects.cache
+C:\Users\esto0\source\repos\TreesHW\TreesHW\obj\Debug\TreesHW.csproj.CoreCompileInputs.cache
+C:\Users\esto0\source\repos\TreesHW\TreesHW\obj\Debug\TreesHW.exe
+C:\Users\esto0\source\repos\TreesHW\TreesHW\obj\Debug\TreesHW.pdb

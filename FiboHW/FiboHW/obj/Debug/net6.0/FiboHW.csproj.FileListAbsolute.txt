@@ -1,0 +1,15 @@
+C:\Users\esto0\source\repos\FiboHW\FiboHW\bin\Debug\net6.0\FiboHW.exe
+C:\Users\esto0\source\repos\FiboHW\FiboHW\bin\Debug\net6.0\FiboHW.deps.json
+C:\Users\esto0\source\repos\FiboHW\FiboHW\bin\Debug\net6.0\FiboHW.runtimeconfig.json
+C:\Users\esto0\source\repos\FiboHW\FiboHW\bin\Debug\net6.0\FiboHW.dll
+C:\Users\esto0\source\repos\FiboHW\FiboHW\bin\Debug\net6.0\FiboHW.pdb
+C:\Users\esto0\source\repos\FiboHW\FiboHW\obj\Debug\net6.0\FiboHW.csproj.AssemblyReference.cache
+C:\Users\esto0\source\repos\FiboHW\FiboHW\obj\Debug\net6.0\FiboHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esto0\source\repos\FiboHW\FiboHW\obj\Debug\net6.0\FiboHW.AssemblyInfoInputs.cache
+C:\Users\esto0\source\repos\FiboHW\FiboHW\obj\Debug\net6.0\FiboHW.AssemblyInfo.cs
+C:\Users\esto0\source\repos\FiboHW\FiboHW\obj\Debug\net6.0\FiboHW.csproj.CoreCompileInputs.cache
+C:\Users\esto0\source\repos\FiboHW\FiboHW\obj\Debug\net6.0\FiboHW.dll
+C:\Users\esto0\source\repos\FiboHW\FiboHW\obj\Debug\net6.0\refint\FiboHW.dll
+C:\Users\esto0\source\repos\FiboHW\FiboHW\obj\Debug\net6.0\FiboHW.pdb
+C:\Users\esto0\source\repos\FiboHW\FiboHW\obj\Debug\net6.0\FiboHW.genruntimeconfig.cache
+C:\Users\esto0\source\repos\FiboHW\FiboHW\obj\Debug\net6.0\ref\FiboHW.dll
